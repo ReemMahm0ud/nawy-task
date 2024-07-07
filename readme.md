@@ -1,21 +1,21 @@
-#nawy task
+# nawy task
 
-###how to run the server
-
-- npm install
-- npm run dev
-
-###how to run the client
+### how to run the server
 
 - npm install
 - npm run dev
 
-###how to run the mobile app using expo
+### how to run the client
+
+- npm install
+- npm run dev
+
+### how to run the mobile app using expo
 
 - npm install
 - npx expo start -c
 
-##server
+## server
 
 I used node js with javascript and database mysql using sequelize package
 
@@ -43,7 +43,7 @@ I used node js with javascript and database mysql using sequelize package
 - get route "http://127.0.0.1:8000/v1/apartment/getAllApartments"
 - get route by id "http://127.0.0.1:8000/v1/apartment/getApartmentDetails/uuid"
 
-##client
+## client
 
 I used nextjs framework with tailwind css
 
@@ -52,7 +52,7 @@ I used nextjs framework with tailwind css
 - details page for every apartment depends on id
 - navigation bar with two links home and create new apartment
 
-##mobile app
+## mobile app
 
 I used react-native with tailwind css
 
